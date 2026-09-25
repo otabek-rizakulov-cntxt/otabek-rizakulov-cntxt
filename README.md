@@ -109,10 +109,6 @@
 </table>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=otabek-rizakulov-cntxt&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Otabek’s%20activity%20in%20the%20past%2030%20days"  width="98%" alt="@otabek-rizakulov-cntxt's github-readme-streak-stats"/>
-</p>
-
-<p align="center">
  <a href="https://github.com/otabek-rizakulov-cntxt?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=otabek-rizakulov-cntxt&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true"  width="49%" alt="GitHub Stats"/></a>
  <a href="https://github.com/otabek-rizakulov-cntxt?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=otabek-rizakulov-cntxt&theme=gotham&hide_border=true" width="49%" alt="GitHub Streak"/></a>
 </p>
