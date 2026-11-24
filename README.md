@@ -26,80 +26,80 @@
 <table align="center">
   <tr>
     <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /><br>React
+      <img src="./icons/react.svg" alt="React" width="48" height="48" /><br>React
     </td>
     <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="48" height="48" /><br>Redux
+      <img src="./icons/redux.svg" alt="Redux" width="48" height="48" /><br>Redux
     </td>
     <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /><br>Next.js
+      <img src="./icons/nextjs.svg" width="40" height="40" alt="Next.js" /><br>Next.js
     </td>
     <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" /><br>TypeScript
+      <img src="./icons/typescript.svg" alt="TypeScript" width="48" height="48" /><br>TypeScript
     </td>
     <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="40" height="40" alt="Nuxt.js" /><br>Nuxt.js
+      <img src="./icons/nuxtjs.svg" width="40" height="40" alt="Nuxt.js" /><br>Nuxt.js
     </td>
     <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="Nest.js" /><br>Nest.js
+      <img src="./icons/nestjs.svg" width="40" height="40" alt="Nest.js" /><br>Nest.js
     </td>
     <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /><br>Node.js
+      <img src="./icons/nodejs.svg" width="40" height="40" alt="Node.js" /><br>Node.js
     </td>
     <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" /><br>Express
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" /><br>Python
-    </td>
-    <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="48" height="48" /><br>Django
-    </td>
-    <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" /><br>REST API
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=solidity" width="40" height="40" alt="Solidity" /><br>Solidity
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=threejs" width="40" height="40" alt="Three.js" /><br>Three.js
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=d3" width="40" height="40" alt="D3.js" /><br>D3.js
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=materialui" width="40" height="40" alt="Material UI" /><br>Material UI
-    </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" /><br>Tailwind
+      <img src="./icons/express.svg" width="40" height="40" alt="Express" /><br>Express
     </td>
   </tr>
   <tr>
     <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="48" height="48" /><br>Sass
+      <img src="./icons/python.svg" alt="Python" width="48" height="48" /><br>Python
     </td>
     <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" /><br>Bootstrap
+      <img src="./icons/django.svg" alt="Django" width="48" height="48" /><br>Django
     </td>
     <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" /><br>AWS
+      <img src="./icons/restapi.svg" alt="REST API" width="48" height="48" /><br>REST API
     </td>
     <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /><br>MongoDB
+      <img src="./icons/solidity.svg" width="40" height="40" alt="Solidity" /><br>Solidity
     </td>
     <td align="center" width="103">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" /><br>MySQL
+      <img src="./icons/threejs.svg" width="40" height="40" alt="Three.js" /><br>Three.js
     </td>
     <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /><br>PostgreSQL
+      <img src="./icons/d3.svg" width="40" height="40" alt="D3.js" /><br>D3.js
+    </td>
+    <td align="center" width="103">
+      <img src="./icons/materialui.svg" width="40" height="40" alt="Material UI" /><br>Material UI
+    </td>
+    <td align="center" width="103">
+      <img src="./icons/tailwind.svg" width="40" height="40" alt="Tailwind" /><br>Tailwind
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="103">
+      <img src="./icons/sass.svg" alt="Sass" width="48" height="48" /><br>Sass
+    </td>
+    <td align="center" width="103">
+      <img src="./icons/bootstrap.svg" width="40" height="40" alt="Bootstrap" /><br>Bootstrap
+    </td>
+    <td align="center" width="103">
+      <img src="./icons/aws.svg" alt="AWS" width="48" height="48" /><br>AWS
+    </td>
+    <td align="center" width="103">
+      <img src="./icons/mongodb.svg" width="40" height="40" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" width="103">
+      <img src="./icons/mysql.svg" alt="MySQL" width="48" height="48" /><br>MySQL
+    </td>
+    <td align="center" width="103">
+      <img src="./icons/postgresql.svg" width="40" height="40" alt="PostgreSQL" /><br>PostgreSQL
     </td>
      <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" /><br>SQLite
+      <img src="./icons/sqlite.svg" width="40" height="40" alt="SQLite" /><br>SQLite
     </td>
     <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /><br>Docker
+      <img src="./icons/docker.svg" width="40" height="40" alt="Docker" /><br>Docker
     </td>
 
   </tr>
