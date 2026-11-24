@@ -18,7 +18,7 @@
 
 <ul align="left">
   <li>
-    <img src="./emojis/seed.gif" width="30" valign="middle" alt="seed" /> <b>Currently:</b> Tech Lead &amp; Delivery Owner at <b>CNTXT AI</b>, where I lead the architecture of an AI agent platform (API gateway, zero-trust service identity, automated API delivery) and a real-time robotics data platform built for horizontal scale.
+    <img src="./emojis/seed.gif" width="30" valign="middle" alt="seed" /> <b>Currently:</b> Tech Lead &amp; Delivery Owner, where I lead the architecture of an AI agent platform (API gateway, zero-trust service identity, automated API delivery) and a real-time robotics data platform built for horizontal scale.
   </li>
   <li>
     <img src="./emojis/folder.gif" width="30" valign="middle" alt="folder" /> <b>Track record:</b> grew microservices infrastructure ~300% while the user base went from 10K to 50K+; shipped fintech features behind $500M+ in digital-asset transactions; led merchant integrations on a payments platform serving 11M+ users.
