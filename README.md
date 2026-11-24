@@ -5,7 +5,12 @@
 <h1 align="center">Hello <img src="./emojis/hi.gif" width="28" alt="hi" />, welcome to my corner of GitHub.</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=Full-Stack+Web2+%26+Web3+Developer+%7C+Scalable%2C+high-performance+apps.;Automation+%26+Telegram+Bots+%7C+Smart+workflows+%26+mini+apps.;Smart+Contracts+%26+dApps+%7C+Decentralized%2C+trustless+solutions." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=3000&pause=500&center=true&width=970&height=64&lines=Software+Architect+%7C+Tech+Lead+%26+Delivery+Owner;Distributed+Systems+%C2%B7+Platform+Security+%C2%B7+AI+Platforms;7%2B+years+building+cloud-native+platforms+for+AI%2C+fintech+%26+robotics" alt="Software Architect | Tech Lead & Delivery Owner" />
+</p>
+
+<p align="center">
+  I design and lead the delivery of cloud-native, distributed platforms, from architecture and scoping through to production.<br>
+  I've built them across AI, fintech and robotics, with an emphasis on security, horizontal scale and reliable delivery.
 </p>
 <p align="center">
     <a href="https://github.com/otabek-rizakulov-cntxt?tab=achievements"><img src="https://github-trophies.vercel.app/?username=otabek-rizakulov-cntxt&theme=onestar&no-frame=true&column=6&row=2"   alt="otabek-rizakulov-cntxt"/></a>
@@ -13,10 +18,16 @@
 
 <ul align="left">
   <li>
-    <img src="./emojis/chat.gif" width="30" valign="middle" alt="chat" /> <b>Ask me about</b> MERN stack, Next.js, Nest.js, TypeScript, high-load applications, payment services, CRM/ERP, AI Solutios, smart contracts, automation workflows, Telegram bots.
+    <img src="./emojis/seed.gif" width="30" valign="middle" alt="seed" /> <b>Currently:</b> Tech Lead &amp; Delivery Owner at <b>CNTXT AI</b>, where I lead the architecture of an AI agent platform (API gateway, zero-trust service identity, automated API delivery) and a real-time robotics data platform built for horizontal scale.
   </li>
   <li>
-    <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:otabek.rzakulov@gmail.com">otabek.rzakulov@gmail.com</a> or <a href="https://t.me/sophisticated_20">@sophisticated_20</a>
+    <img src="./emojis/folder.gif" width="30" valign="middle" alt="folder" /> <b>Track record:</b> grew microservices infrastructure ~300% while the user base went from 10K to 50K+; shipped fintech features behind $500M+ in digital-asset transactions; led merchant integrations on a payments platform serving 11M+ users.
+  </li>
+  <li>
+    <img src="./emojis/chat.gif" width="30" valign="middle" alt="chat" /> <b>Ask me about:</b> distributed systems, API gateways, zero-trust authentication, event-driven architecture, Kubernetes &amp; GitOps, AI agent platforms, fintech &amp; payments, and engineering leadership.
+  </li>
+  <li>
+    <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me:</b> <a href="https://www.linkedin.com/in/otabek-rizakulov">LinkedIn</a> · <a href="mailto:otabek.rzakulov@gmail.com">otabek.rzakulov@gmail.com</a> · <a href="https://t.me/sophisticated_20">@sophisticated_20</a>
   </li>
   <li>
     &nbsp;<img src="./emojis/laugh.gif" width="22" valign="middle" alt="laugh" />&nbsp;&nbsp;<b>Fun fact:</b> I automate things just to avoid doing them manually once.
